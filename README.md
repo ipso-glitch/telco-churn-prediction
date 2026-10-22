@@ -1,7 +1,5 @@
 # Telecom customer churn prediction
 
-[Leer en español](README.es.md)
-
 Final project for the Data Science I course at Coderhouse. It is an exploratory analysis plus two classification models that predict whether a customer of a telecom company leaves or stays.
 
 ## The problem
